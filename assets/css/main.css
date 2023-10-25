@@ -85,6 +85,10 @@ footer .copyright h5 {
   text-align: center;
 }
 
+.row {
+  --bs-gutter-x: 0rem;
+}
+
 *,
 *::after,
 *::before {
